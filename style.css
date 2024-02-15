@@ -1,0 +1,48 @@
+body {
+  background-color: #3fbf3f; /* Green background color */
+  margin: 50px;
+}
+
+.App {
+  text-align: center;
+  padding: 20px;
+  background-color: #fff;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5); /* Box shadow */
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-bottom: 10px;
+}
+
+button:disabled {
+  background-color: #ccc;
+  cursor: not-allowed;
+}
+
+button:hover:not(:disabled) {
+  background-color: #0056b3;
+}
+
+img {
+  max-width: 200px;
+  margin-top: 20px;
+}
+
+.cardContainer {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.card {
+  margin: 10px;
+}
+
