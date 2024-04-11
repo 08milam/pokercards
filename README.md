@@ -4,7 +4,7 @@ Embark on a journey through the world of cards with the Deck of Cards app! This 
 
 HOW TO RUN 
 ------------------------------------
-* To get started, navigate to the Todo-list repository on GitHub and download the files. Then, open the folder in Visual Studio Code and launch the live server extension. This action  will automatically open the project in your default web browser.
+* To get started, navigate to the Pokercards repository on GitHub and download the files. Then, open the folder in Visual Studio Code and launch the live server extension. This action  will automatically open the project in your default web browser.
 
 TECHNOLOGY STACK USED
 ------------------------------------
